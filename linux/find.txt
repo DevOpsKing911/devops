@@ -1,0 +1,132 @@
+1  hostname set-hostname pitt
+    2  exit
+    3  hostnamectl set-hostname pitt
+    4  exit
+    5  whoami
+    6  ip addr
+    7  exit
+    8  pwd
+    9  cd /
+   10  pwd
+   11  cd /home/green
+   12  histroy
+   13  history
+   14  ls
+   15  pwd
+   16  cd /home/green
+   17  cd root
+   18  cd /
+   19  cd root
+   20  ls
+   21  pwd
+   22  cd `
+   23  clear
+   24  su -
+   25  cd /tmp
+   26  useradd Anas
+   27  passwd Anas
+   28  whoami
+   29  su Anas
+   30  sudo su root
+   31  sudo su root
+   32  su -
+   33  su -
+   34  hostnamectl set-hostname rocky
+   35  exit
+   36  ip addr
+   37  su green
+   38  hostnamectl set-hostname SuperPC
+   39  exit
+   40  pwd
+   41  cd /
+   42  pwd
+   43  pwd home
+   44  cd /home
+   45  pwd
+   46  ls
+   47  cd /Anas
+   48  cd /home/Anas
+   49  pwd
+   50  ls
+   51  cd /root
+   52  pwd
+   53  su Anas
+   54  exit
+   55  pwd
+   56  ls
+   57  pwd
+   58  ls /
+   59  cd tmp
+   60  pwd
+   61  ls
+   62  ls /
+   63  pwd
+   64  cd ..
+   65  ls
+   66  cd ..
+   67  ls
+   68  cd tmp
+   69  mkdir piit
+   70  cd pitt
+   71  cd piit
+   72  pwd
+   73  cat applle.txt orange.txt file{1..10}.txt
+   74  cat applle.txt orange.txt file{1..10}.tls
+   75  ls
+   76  cat applle.txt orange.txt
+   77  touch apple.txt orange.txt
+   78  ls
+   79  touch file{1..10}.txt
+   80  ls
+   81  which nano
+   82  which ls
+   83  which passwd
+   84  nano apple.txt
+   85  cat apple.txt
+   86  find /tmp/piit -name apple.txt
+   87  find /tmp -mtime -7
+   88  find /tmp -mtime -3
+   89  find /tmp -mtime -1
+   90  clear
+   91*
+   92  find / -name apple*.*
+   93  find / -name apple
+   94  find / -name a*.txt
+   95  find /tmp -mtime -7
+   96  find /tmp -mtime -2
+   97  find /tmp -mtime -1
+   98  find /tmp -mtime -2
+   99  find / -type f -name "*.log"
+  100  find / -type f -name "*.txt"
+  101  find / -type f -name "*file1.txt"
+  102  find / -type f -name "*le1.txt"
+  103  cd /
+  104  find / -name apple*.*
+  105  find / -size +100m
+  106  find / -size +10m
+  107  find . -type f -size +10M
+  108  find / -size +10M
+  109  find / -type f -cmin -60
+  110  find / -type f -cmin -10
+  111  find / -type f -cmin -1
+  112  history | grep chmod
+  113  stat filename
+  114  diff apple.txt
+  115  diff apple.txt oramge.txt
+  116  clear
+  117  ls
+  118  cd tmp
+  119  cd .
+  120  ls
+  121  pwd
+  122  cat /etc/passwd
+  123  usermod -l anas_miah Anas
+  124  kill 2015
+  125  usermod -l anas_miah Anas
+  126  ps -u Anas
+  127  pkill -u Anas
+  128  usermod -l anas_miah Anas
+  129  cat /etc/passwd
+  130  nano hello.txt
+  131  clear
+  132  history
